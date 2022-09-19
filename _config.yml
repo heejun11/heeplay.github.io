@@ -48,11 +48,20 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  python, php, java 기반의 백앤드 개발자이며 약 100Gbps의 CDN(컨텐츠 딜리버리 네트웍) 트래픽을 처리한 경험이 있습니다. Javva기반의 오픈소스를 활용한 서비스노드개발과 백앤드 어플을 중점적으로 개발했으며
+  약 100만 사용자 API call을 감당하는 아키텍처를 설계, 개발, 운용 경험이 있습니다. 즉, WEB API, 백앤드어플개발, 캐시, 분산DB 구성등 리더로 참여 하였습니다.
+  또한 1000여대 가량의 서버를 관리한 경험이 있으며, AWS와 자체 IDC등 다양한 형태의 인프라 구성 경험이 있습니다.
+  대량 트래픽에 대한 MySQL 분산경험과 서비스 노드 분산 경험이 있습니다.
+  현재는 좀더 다양한 분야의 경험을 하고자 휴식과 탐색중입니다.
+  앞으로 팀단위의 Reader보다는 coder의 역활을 하고자 합니다. 
+  
+     
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+/*
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -71,7 +80,8 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+    */
+    
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
