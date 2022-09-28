@@ -1,12 +1,12 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
- 
+
 # Content configuration version
 version: 2
 
 # Personal info
-name:  찰스 by nick
+name: 찰스 by nick
 title: 백엔드 어플리케이션 개발 및 셋업 with java, Python
 email: heeplay@gmail.com
 website: heejun11.github.io/resume
@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
+# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   python, php, java 기반의 백앤드 개발자이며 약 100Gbps의 CDN(컨텐츠 딜리버리 네트웍) 트래픽을 처리한 경험이 있습니다. Java기반의 오픈소스를 활용한 서비스노드개발과 백앤드 어플을 중점적으로 개발했으며
@@ -55,93 +55,66 @@ about_content: | # this will include new lines to allow paragraphs
   대량 트래픽에 대한 MySQL 분산경험과 서비스 노드 분산 경험이 있습니다.
   
   현재는 좀더 다양한 분야의 경험을 하고자 휴식과 탐색중입니다.
-  앞으로 팀단위의 Reader보다는 coder의 역활을 하고자 합니다. 
-  
-     
- # Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  앞으로 팀단위의 Reader보다는 coder의 역활을 하고자 합니다.   
 
- # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
-# content:
-
- # - title: Projects # Title for the section
- #   layout: list # Type of content section (list/text)
- #   content:
- #     - layout: top-middle
- #       title: Super awesome project
- #       link: github.com/sproogen
- #       # link_text: Project Website
- #       additional_links:
- #         - title:  sproogen/modern-resume-theme
- #           icon: fab fa-github
- #           url: github.com/sproogen/modern-resume-theme
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
- #       quote: >
- #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
- #       description: | # this will include new lines to allow paragraphs
- #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-    
-    
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 에스피소프트
+        title: 에스피소프트3
         link: www.spsoft.co.kr
-        # link_text: www.spsoft.co.kr
-        sub_title: 개발 총괄 리더 
+        # link_text: boringcompany.com
+        sub_title: 개발 총괄 리더
         caption: 2011.08 - 2022.04
         quote: >
-           약 100Gbps CDN 트래픽 서비스 ,누적 500만 사용자 API call 
+          약 100Gbps CDN 트래픽 서비스 ,누적 500만 사용자 API call 
         description: | # this will include new lines to allow paragraphs
-             분산 MySQL과 서비스 노드 어플리케이션 개발 
+            분산 MySQL과 서비스 노드 어플리케이션 개발
                with java, python, php, springboot, redis 케시, c/c++, go  등
                대부분 리눅스 OS사용
-             트래픽 및 모니터링 툴 개발
-             오픈소스(hadoop)활용 스토리지 서비스구축
-             N/W, 스토리지, server 등 인프라 구축 
-             미디어 트랜스코딩 서비스 구축
-             운영 자동화와 서비스 개선            
-             
-        title: 애드빌소프트
-        link:www.adbillsoft.com
-        # link_text:www.adbillsoft.com
-        sub_title: 백엔드 개발자(C/C++)
-        caption: 2006.04 - 2011.07
-        sub_title: 백엔드 개발자
-        quote: >
-            KT IPTV 프로비져닝 서비스 최초 개발 서비스 
-        description: | # this will include new lines to allow paragraphs
-          IPTV 쿠폰시스템 파일럿 개발(java) 
-          C/C++ 서비스 데몬 개발 ( multi thread, daemon, oracle , tcp/ip socket,vim, make 등)
-          고객시스템과 STB, CAS, VOD, 양방향시스템간의 상호작용 및 자동화 처리
-          고객 STB 등록, 개통,해지등 자동화 처리( API transaction, format converting, call branch 등)
-          컨텐츠 시청,과금 로그 수집 및 정산( Defined formating DATA)
-          방송 스케줄링 데이타 수집(XML)
+            트래픽 및 모니터링 툴 개발
+            오픈소스(hadoop)활용 스토리지 서비스구축
+            N/W, 스토리지, server 등 인프라 구축 
+            미디어 트랜스코딩 서비스 구축
+            운영 자동화와 서비스 개선            
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 애드빌소프트
-        link:www.adbillsoft.com
-        # link_text:www.adbillsoft.com
-        sub_title: 백엔드 개발자(C/C++)
-        caption: 2006.04 - 2011.07
-        sub_title: 백엔드 개발자
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
         quote: >
-            KT IPTV 프로비져닝 서비스 최초 개발 서비스 
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          IPTV 쿠폰시스템 파일럿 개발(java) 
-          C/C++ 서비스 데몬 개발 ( multi thread, daemon, oracle , tcp/ip socket,vim, make 등)
-          고객시스템과 STB, CAS, VOD, 양방향시스템간의 상호작용 및 자동화 처리
-          고객 STB 등록, 개통,해지등 자동화 처리( API transaction, format converting, call branch 등)
-          컨텐츠 시청,과금 로그 수집 및 정산( Defined formating DATA)
-          방송 스케줄링 데이타 수집(XML)
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-  - title: A Little More About Me 
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
