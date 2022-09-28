@@ -93,14 +93,40 @@ content:
         description: | # this will include new lines to allow paragraphs
             - 분산 MySQL과 서비스 노드 어플리케이션 개발
 
-              with java, python, php, springboot, redis 케시, c/c++, go  등
+              with java, python, php, springboot, redis 캐시, c/c++, go  등
 
-              대부분 리눅스 OS사용
+              대부분 linux 사용, 일부 windows, 
+              
+              클라우드 AWS 사용함.( route53, EC2, CloudFront 등)
             - 트래픽 및 모니터링 툴 개발
             - 오픈소스(hadoop)활용 스토리지 서비스구축
             - N/W, 스토리지, server 등 인프라 구축 
-            - 미디어 트랜스코딩 서비스 구축
+            - Media transcode 서비스 구축
             - 운영 자동화와 서비스 개선            
+
+      - layout: left
+        title: 애드빌소프트
+        link: www.adbillsoft.com
+        # link_text: boringcompany.com
+        sub_title: 개발
+        caption: 2011.08 - 2022.04
+        quote: >
+          약 100Gbps CDN 트래픽 서비스 ,누적 500만 사용자 API call 
+        description: | # this will include new lines to allow paragraphs
+            - 분산 MySQL과 서비스 노드 어플리케이션 개발
+
+              with java, python, php, springboot, redis 캐시, c/c++, go  등
+
+              대부분 linux 사용, 일부 windows, 
+              
+              클라우드 AWS 사용함.( route53, EC2, CloudFront 등)
+            - 트래픽 및 모니터링 툴 개발
+            - 오픈소스(hadoop)활용 스토리지 서비스구축
+            - N/W, 스토리지, server 등 인프라 구축 
+            - Media transcode 서비스 구축
+            - 운영 자동화와 서비스 개선            
+
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
