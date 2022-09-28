@@ -183,6 +183,7 @@ content:
           - Spring Boot, codeIgniter
           - Visual Studio Code
 
+      - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
           - MySQL,MariaDB, Oracle,Mssql
@@ -193,6 +194,7 @@ content:
           - mrtg, zabix
           - docker, hadoop,
 
+      - layout: left
         title: Mobile & FrontEnd
         description: | # this will include new lines to allow paragraphs
           - AndroidStuio, react-native, expo, 
@@ -203,7 +205,7 @@ content:
 
 
 
-  - title: Skill
+  - title: Skill2
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
