@@ -89,7 +89,7 @@ content:
         link: www.spsoft.co.kr
         # link_text: boringcompany.com
         sub_title: 개발 총괄 리더
-        caption: 2010.09 - 2022.04
+        caption: 2010.09 ~ 2022.04
         quote: >
           약 100Gbps CDN 트래픽 서비스 ,누적 500만 사용자 API call 
         description: | # this will include new lines to allow paragraphs
@@ -111,7 +111,7 @@ content:
         link: www.adbillsoft.com
         # link_text: boringcompany.com
         sub_title: 개발
-        caption: 2005.06 - 2010.07
+        caption: 2005.06 ~ 2010.07
         quote: >
             KT IPTV 프로비져닝 서비스 최초 개발 서비스 
         description: | # this will include new lines to allow paragraphs
@@ -134,7 +134,7 @@ content:
         link: 없음
         # link_text: boringcompany.com
         sub_title: 개발리더
-        caption: 1998.09 - 2005.06
+        caption: 1998.09 ~ 2005.06
         quote: >
             파워콤 통신빌링 시스템 개발 리더 
         description: | # this will include new lines to allow paragraphs
@@ -167,14 +167,14 @@ content:
       - layout: left
         title: Backend
         description: | # this will include new lines to allow paragraphs
-          - java, python,php, c\c++, go, 
+          - java, python, php, c\c++, go, 
           - Spring Boot, codeIgniter
           - Visual Studio Code
 
       - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
-          - MySQL,MariaDB, Oracle,Mssql
+          - MySQL, MariaDB, Oracle,Mssql
           - MongoDB, Redis, memcached, 
           - S3, EC2, route53, ston, 
           - Apache, Ningx, Tomcat
@@ -185,7 +185,7 @@ content:
       - layout: left
         title: Mobile & FrontEnd
         description: | # this will include new lines to allow paragraphs
-          - AndroidStuio, react-native, expo, 
+          - AndroidStudio, react-native, expo, 
           - npm, pip, git 
           - html, javascript,Lodash
           - figma, 그림판, 미리캔버스 
