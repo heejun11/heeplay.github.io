@@ -167,7 +167,7 @@ content:
       - layout: left
         title: Backend
         description: | # this will include new lines to allow paragraphs
-          - java, python, php, c\c++, go, 
+          - Java, Python, Php, C\C++, Go, 
           - Spring Boot, codeIgniter
           - Visual Studio Code
 
