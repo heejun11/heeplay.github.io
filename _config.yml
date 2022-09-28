@@ -50,17 +50,17 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Python, Php, Java 기반의 백앤드 개발자이며 약 100Gbps의 CDN(컨텐츠 딜리버리 네트웍) 트래픽을 처리한 경험이 있습니다. 
   
-  Java기반의 오픈소스를 활용한 서비스노드 개발과 백앤드 어플을 중점적으로 개발했으며 약 100만 사용자 API call을 감당하는 아키텍처를 설계, 개발, 운용 경험이 있습니다. 
+  Java기반의 오픈소스를 활용한 서비스노드 개발과 백앤드 어플을 중점적으로 개발했으며 약 100만 사용자 API call을 감당하는 아키텍처를 설계, 개발, 운용 *총괄Reader*  경험이 있습니다. 
   
   즉, WEB API, 백앤드어플개발, 캐시, 분산DB 구성등 리더로 참여 하였습니다.
   
-  또한 1000여대 가량의 서버를 관리한 경험이 있으며, AWS와 자체 IDC등 다양한 형태의 인프라 구성 경험이 있습니다.
+  또한 <mark>1,000대 서버<mark>를 관리한 경험이 있으며, AWS와 자체 IDC등 다양한 형태의 인프라 구성 경험이 있습니다.
   
   대량 트래픽에 대한 MySQL 분산경험과 서비스 노드 분산 경험이 있습니다.
 
   앞으로 팀단위의 Reader보다는 coder의 역활을 하고자 합니다.   
 
-  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # content:
 #  - title: Projects # Title for the section
