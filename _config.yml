@@ -99,12 +99,12 @@ content:
 
               약 1,000여대 linux Server, 소수 windows Server, 
               
-              클라우드 AWS 사용함.( route53, EC2, CloudFront 등)
+              클라우드 AWS 사용함( route53, EC2, CloudFront 등)
             - 트래픽 및 모니터링 툴 개발
             - 오픈소스(hadoop)활용 스토리지 서비스구축
-            - N/W, 스토리지, server 등 인프라 구축 
-            - Media transcode 서비스 구축
-            - 운영 자동화와 서비스 개선            
+            - N/W, 스토리지, server 등 인프라 구축
+            - Media transcode 서비스 구축 (ffmpeg)
+            - 운영 자동화와 서비스 개선(traffic, load, cpu, memory, service  등)            
 
       - layout: left
         title: 애드빌소프트
