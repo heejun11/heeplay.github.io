@@ -95,7 +95,7 @@ content:
 
               with java, python, php, springboot, redis 캐시, c/c++, go  등
 
-              대부분 linux 사용, 일부 windows, 
+              약 1,000여대 linux Server, 소수 windows Server, 
               
               클라우드 AWS 사용함.( route53, EC2, CloudFront 등)
             - 트래픽 및 모니터링 툴 개발
@@ -113,14 +113,49 @@ content:
         quote: >
             KT IPTV 프로비져닝 서비스 최초 개발 서비스 
         description: | # this will include new lines to allow paragraphs
-            - IPTV 쿠폰시스템 파일럿 개발(java, oracle)
             - IPTV 프로비져닝 서비스 개발 
 
               multi thread, daemon, oracle DB, tcp/ip socket,vim, make 등
-            -- 고객시스템과 STB, CAS, VOD, 양방향시스템간의 상호작용 및 자동화 처리
-            -- 고객 STB 등록, 개통,해지등 자동화 처리( API transaction, format converting, call branch 등)
-            -- 컨텐츠 시청,과금 로그 수집 및 정산( Defined formating DATA)
-            -- 방송 스케줄링 데이타 수집(XML)
+
+              고객시스템과 STB, CAS, VOD, 양방향시스템간의 상호작용 및 자동화 처리
+
+              고객 STB 등록, 개통,해지등 자동화 처리( API transaction, format converting, call branch 등)
+
+              컨텐츠 시청,과금 로그 수집 및 정산( Defined formating DATA)
+
+              방송 스케줄링 데이타 수집(XML)
+
+            - IPTV 쿠폰시스템 파일럿 개발(java, oracle)
+
+      - layout: left
+        title: 한국소프트웨어써비스
+        link: 없음
+        # link_text: boringcompany.com
+        sub_title: 개발리더
+        caption: 1998.09 - 2005.06
+        quote: >
+            파워콤 통신빌링 시스템 개발 리더 
+        description: | # this will include new lines to allow paragraphs
+            - 파워콤 통신빌링시스템
+
+              청약, 공정, 요금 계약정보등  매월 과금정산 계산 및 리포트 개발
+
+              요금 어플리케이션 서비스개발 - 요금기준표, 요금처리 
+
+              PowerBuilder, oracle DB, dataMart 연동, SAP ERP 연동, image 데이타 관리
+
+              요금기준표 약 100건, 요금처리 일할계산 등 
+
+              설계 : DB 구조설계, 요금처리 프로세스 설계, 요금기준 설계 등
+              DB 파티셔닝설계, DATA관리 등 (튜닝, 데이타백업, 이관 등)
+
+            - 대학학사 정보 시스템
+
+              입시,등록금,수강신청,졸업등 처리
+
+              PowerBuilder, oracle DB 등
+
+              업무분석, DB설계, 기초데이타, 솔류션화 작업
 
 
   - title: Education # Title for the section
@@ -137,7 +172,38 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+
+  - title: Skill
+    layout: list
+    content: 
+      - layout: left
+        title: Backend
+        description: | # this will include new lines to allow paragraphs
+          - java, python,php, c\c++, go, 
+          - Spring Boot, codeIgniter
+          - Visual Studio Code
+
+        title: DevOps
+        description: | # this will include new lines to allow paragraphs
+          - MySQL,MariaDB, Oracle,Mssql
+          - MongoDB, Redis, memcached, 
+          - S3, EC2, route53, ston, 
+          - Apache, Ningx, Tomcat
+          - Linux CentOS, Ubunt, RHEL, 
+          - mrtg, zabix
+          - docker, hadoop,
+
+        title: Mobile & FrontEnd
+        description: | # this will include new lines to allow paragraphs
+          - AndroidStuio, react-native, expo, 
+          - npm, pip,  
+          - html, javascript,Lodash
+          - git
+          - mssql
+
+
+
+  - title: Skill
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
