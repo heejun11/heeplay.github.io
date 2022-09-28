@@ -87,7 +87,7 @@ content:
         link: www.spsoft.co.kr
         # link_text: boringcompany.com
         sub_title: 개발 총괄 리더
-        caption: 2011.08 - 2022.04
+        caption: 2010.09 - 2022.04
         quote: >
           약 100Gbps CDN 트래픽 서비스 ,누적 500만 사용자 API call 
         description: | # this will include new lines to allow paragraphs
@@ -109,23 +109,18 @@ content:
         link: www.adbillsoft.com
         # link_text: boringcompany.com
         sub_title: 개발
-        caption: 2011.08 - 2022.04
+        caption: 2005.06 - 2010.07
         quote: >
-          약 100Gbps CDN 트래픽 서비스 ,누적 500만 사용자 API call 
+            KT IPTV 프로비져닝 서비스 최초 개발 서비스 
         description: | # this will include new lines to allow paragraphs
-            - 분산 MySQL과 서비스 노드 어플리케이션 개발
+            - IPTV 쿠폰시스템 파일럿 개발(java, oracle)
+            - IPTV 프로비져닝 서비스 개발 
 
-              with java, python, php, springboot, redis 캐시, c/c++, go  등
-
-              대부분 linux 사용, 일부 windows, 
-              
-              클라우드 AWS 사용함.( route53, EC2, CloudFront 등)
-            - 트래픽 및 모니터링 툴 개발
-            - 오픈소스(hadoop)활용 스토리지 서비스구축
-            - N/W, 스토리지, server 등 인프라 구축 
-            - Media transcode 서비스 구축
-            - 운영 자동화와 서비스 개선            
-
+              multi thread, daemon, oracle DB, tcp/ip socket,vim, make 등
+            -- 고객시스템과 STB, CAS, VOD, 양방향시스템간의 상호작용 및 자동화 처리
+            -- 고객 STB 등록, 개통,해지등 자동화 처리( API transaction, format converting, call branch 등)
+            -- 컨텐츠 시청,과금 로그 수집 및 정산( Defined formating DATA)
+            -- 방송 스케줄링 데이타 수집(XML)
 
 
   - title: Education # Title for the section
