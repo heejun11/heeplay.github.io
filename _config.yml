@@ -83,7 +83,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 에스피소프트3
+        title: 에스피소프트
         link: www.spsoft.co.kr
         # link_text: boringcompany.com
         sub_title: 개발 총괄 리더
@@ -91,14 +91,14 @@ content:
         quote: >
           약 100Gbps CDN 트래픽 서비스 ,누적 500만 사용자 API call 
         description: | # this will include new lines to allow paragraphs
-            분산 MySQL과 서비스 노드 어플리케이션 개발
-               with java, python, php, springboot, redis 케시, c/c++, go  등
-               대부분 리눅스 OS사용
-            트래픽 및 모니터링 툴 개발
-            오픈소스(hadoop)활용 스토리지 서비스구축
-            N/W, 스토리지, server 등 인프라 구축 
-            미디어 트랜스코딩 서비스 구축
-            운영 자동화와 서비스 개선            
+            - 분산 MySQL과 서비스 노드 어플리케이션 개발
+               -- with java, python, php, springboot, redis 케시, c/c++, go  등
+               -- 대부분 리눅스 OS사용
+            - 트래픽 및 모니터링 툴 개발
+            - 오픈소스(hadoop)활용 스토리지 서비스구축
+            - N/W, 스토리지, server 등 인프라 구축 
+            - 미디어 트랜스코딩 서비스 구축
+            - 운영 자동화와 서비스 개선            
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
