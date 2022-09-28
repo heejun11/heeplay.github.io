@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
  
 # Content configuration version
-version: 2
+version: 5
 
 # Personal info
 name:  찰스 by nick
@@ -105,8 +105,6 @@ content:
             * 미디어 트랜스코딩 서비스 구축
             * 운영 자동화와 서비스 개선            
              
-            # Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
         title: 애드빌소프트
         link:www.adbillsoft.com
         # link_text:www.adbillsoft.com
@@ -122,9 +120,6 @@ content:
          * 고객 STB 등록, 개통,해지등 자동화 처리( API transaction, format converting, call branch 등)
          * 컨텐츠 시청,과금 로그 수집 및 정산( Defined formating DATA)
          * 방송 스케줄링 데이타 수집(XML)
-
-            # Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
