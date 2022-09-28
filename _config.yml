@@ -58,12 +58,12 @@ about_content: | # this will include new lines to allow paragraphs
   
   대량 트래픽에 대한 MySQL 분산경험과 서비스 노드 분산 경험이 있습니다.
 
-  앞으로 팀단위의 Reader보다는 coder의 역활을 하고자 합니다.   
+  앞으로 팀단위의 Reader보다는 coder의 역활을 하고자 합니다.    
 
-# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark> 
 
  content:
- 
+
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
