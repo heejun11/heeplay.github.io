@@ -175,12 +175,12 @@ content:
         title: DevOps
         description: | # this will include new lines to allow paragraphs
           - MySQL, MariaDB, Oracle,Mssql
-          - MongoDB, Redis, memcached, 
-          - S3, EC2, route53, ston, 
+          - MongoDB, Redis, memcached
+          - S3, EC2, route53, ston
           - Apache, Ningx, Tomcat
           - Linux CentOS, Ubunt, RHEL
           - mrtg, zabix
-          - docker, hadoop,
+          - docker, hadoop
 
       - layout: left
         title: Mobile & FrontEnd
